@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 0,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 1,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 2,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 3,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 4,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 5,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 6,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 7,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 8,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 9,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 10,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 11,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 12,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 13,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 14,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 15,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 16,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 17,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 18,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 19,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 20,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 21,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 22,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 23,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 24,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 25,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 26,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 27,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 28,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 29,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 30,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 31,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 32,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 33,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 34,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 35,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 36,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 37,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 38,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 39,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 40,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 41,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 42,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 43,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 44,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 45,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 46,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 47,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 48,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 49,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 50,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 51,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 52,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 53,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 54,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 55,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 56,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 57,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 58,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 59,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 60,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 61,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 62,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 63,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 64,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 65,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 66,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 67,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 68,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 69,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 70,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 71,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 72,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 73,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 74,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 75,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 76,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 77,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 78,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 79,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 80,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 81,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 82,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 83,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 84,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 85,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 86,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 87,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 88,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 89,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 90,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 91,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 92,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 93,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 94,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 95,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 96,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 97,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 98,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 99,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 100,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 101,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 102,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 103,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 104,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 105,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 106,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 107,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 108,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 109,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 110,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 111,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 112,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 113,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 114,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 115,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 116,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 117,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 118,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 119,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 120,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 121,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 122,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 123,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 124,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 125,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 126,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 127,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 128,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 129,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 130,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 131,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 132,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 133,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 134,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 135,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 136,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 137,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 138,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 139,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 140,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 141,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 142,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 143,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 144,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 145,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 146,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 147,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 148,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 149,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 150,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 151,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 152,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 153,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 154,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 155,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 156,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 157,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 158,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 159,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 160,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 161,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 162,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 163,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 164,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 165,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 166,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 167,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 168,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 169,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 170,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 171,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 172,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 173,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 174,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 175,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 176,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 177,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 178,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 179,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 180,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 181,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 182,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 183,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 184,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 185,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 186,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 187,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 188,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 189,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 190,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 191,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 192,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 193,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 194,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 195,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 196,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 197,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 198,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 199,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 200,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 201,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 202,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 203,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 204,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 205,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 206,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 207,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 208,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 209,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 210,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 211,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 212,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 213,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 214,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 215,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 216,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 217,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 218,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 219,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 220,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 221,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 222,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 223,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 224,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 225,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 226,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 227,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 228,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 229,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 230,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 231,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 232,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 233,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 234,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 235,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 236,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 237,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 238,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 239,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 240,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 241,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 242,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 243,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 244,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 245,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 246,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 247,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 248,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 249,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 250,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 251,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 252,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 253,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 254,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 255,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 256,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 257,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 258,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 259,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 260,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 261,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 262,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 263,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 264,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 265,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 266,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 267,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 268,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 269,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 270,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 271,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 272,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 273,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 274,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 275,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 276,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 277,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 278,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 279,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 280,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 281,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 282,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 283,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 284,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 285,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 286,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 287,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 288,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 289,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 290,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 291,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 292,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 293,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 294,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 295,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 296,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 297,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 298,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 299,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 300,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 301,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 302,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 303,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 304,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 305,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 306,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 307,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 308,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 309,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 310,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 311,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 312,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 313,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 314,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 315,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 316,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 317,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 318,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 319,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 320,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 321,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 322,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 323,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 324,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 325,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 326,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 327,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 328,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 329,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 330,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 331,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 332,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 333,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 334,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 335,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 336,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 337,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 338,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 339,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 340,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 341,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 342,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 343,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 344,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 345,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 346,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 347,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 348,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 349,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 350,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 351,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 352,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 353,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 354,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 355,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 356,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 357,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 358,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 359,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 360,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 361,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 362,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 363,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 364,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 365,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 366,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 367,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 368,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 369,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 370,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 371,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 372,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 373,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 374,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 375,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 376,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 377,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 378,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 379,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 380,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 381,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 382,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 383,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 384,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 385,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 386,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 387,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 388,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 389,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 390,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 391,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 392,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 393,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 394,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 395,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 396,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 397,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 398,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 399,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 400,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 401,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 402,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 403,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 404,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 405,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 406,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 407,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 408,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 409,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 410,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 411,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 412,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 413,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 414,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 415,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 416,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 417,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 418,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 419,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 420,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 421,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 422,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 423,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 424,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 425,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 426,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 427,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 428,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 429,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 430,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 431,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 432,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 433,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 434,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 435,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 436,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 437,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 438,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 439,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 440,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 441,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 442,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 443,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 444,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 445,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 446,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 447,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 448,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 449,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 450,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 451,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 452,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 453,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 454,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 455,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 456,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 457,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 458,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 459,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 460,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 461,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 462,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 463,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 464,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 465,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 466,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 467,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 468,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 469,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 470,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 471,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 472,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 473,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 474,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 475,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 476,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 477,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 478,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 479,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 480,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 481,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 482,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 483,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 484,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 485,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 486,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 487,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 488,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 489,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 490,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 491,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 492,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 493,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 494,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 495,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 496,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 497,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 498,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 499,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 500,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 501,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 502,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 503,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 504,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 505,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 506,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 507,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 508,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 509,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 510,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 511,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 512,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 513,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 514,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 515,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 516,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 517,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 518,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 519,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 520,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 521,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 522,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 523,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 524,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 525,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 526,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 527,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 528,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 529,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 530,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 531,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 532,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 533,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 534,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 535,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 536,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 537,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 538,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 539,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 540,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 541,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 542,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 543,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 544,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 545,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 546,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 547,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 548,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 549,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 550,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 551,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 552,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 553,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 554,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 555,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 556,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 557,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 558,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 559,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 560,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 561,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 562,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 563,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 564,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 565,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 566,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 567,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 568,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 569,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 570,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 571,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 572,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 573,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 574,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 575,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 576,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 577,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 578,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 579,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 580,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 581,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 582,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 583,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 584,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 585,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 586,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 587,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 588,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 589,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 590,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 591,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 592,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 593,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 594,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 595,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 596,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 597,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 598,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 599,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 600,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 601,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 602,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 603,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 604,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 605,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 606,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 607,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 608,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 609,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 610,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 611,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 612,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 613,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 614,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 615,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 616,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 617,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 618,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 619,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 620,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 621,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 622,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 623,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 624,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 625,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 626,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 627,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 628,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 629,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 630,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 631,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 632,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 633,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 634,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 635,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 636,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 637,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 638,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 639,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 640,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 641,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 642,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 643,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 644,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 645,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 646,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 647,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 648,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 649,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 650,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 651,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 652,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 653,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 654,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 655,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 656,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 657,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 658,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 659,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 660,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 661,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 662,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 663,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 664,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 665,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 666,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 667,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 668,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 669,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 670,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 671,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 672,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 673,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 674,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 675,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 676,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 677,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 678,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 679,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 680,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 681,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 682,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 683,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 684,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 685,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 686,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 687,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 688,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 689,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 690,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 691,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 692,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 693,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 694,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 695,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 696,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 697,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 698,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 699,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 700,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 701,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 702,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 703,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 704,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 705,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 706,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 707,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 708,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 709,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 710,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 711,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 712,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 713,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 714,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 715,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 716,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 717,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 718,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 719,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 720,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 721,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 722,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 723,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 724,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 725,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 726,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 727,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 728,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 729,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 730,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 731,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 732,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 733,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 734,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 735,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 736,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 737,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 738,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 739,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 740,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 741,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 742,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 743,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 744,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 745,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 746,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 747,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 748,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 749,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 750,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 751,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 752,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 753,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 754,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 755,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 756,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 757,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 758,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 759,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 760,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 761,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 762,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 763,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 764,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 765,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 766,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 767,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 768,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 769,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 770,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 771,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 772,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 773,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 774,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 775,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 776,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 777,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 778,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 779,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 780,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 781,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 782,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 783,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 784,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 785,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 786,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 787,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 788,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 789,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 790,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 791,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 792,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 793,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 794,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 795,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 796,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 797,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 798,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 799,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 800,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 801,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 802,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 803,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 804,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 805,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 806,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 807,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 808,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 809,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 810,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 811,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 812,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 813,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 814,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 815,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 816,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 817,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 818,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 819,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 820,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 821,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 822,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 823,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 824,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 825,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 826,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 827,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 828,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 829,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 830,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 831,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 832,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 833,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 834,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 835,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 836,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 837,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 838,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 839,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 840,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 841,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 842,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 843,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 844,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 845,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 846,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 847,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 848,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 849,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 850,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 851,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 852,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 853,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 854,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 855,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 856,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 857,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 858,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 859,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 860,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 861,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 862,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 863,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 864,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 865,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 866,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 867,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 868,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 869,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 870,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 871,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 872,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 873,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 874,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 875,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 876,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 877,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 878,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 879,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 880,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 881,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 882,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 883,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 884,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 885,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 886,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 887,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 888,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 889,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 890,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 891,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 892,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 893,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 894,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 895,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 896,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 897,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 898,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 899,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 900,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 901,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 902,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 903,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 904,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 905,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 906,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 907,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 908,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 909,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 910,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 911,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 912,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 913,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 914,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 915,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 916,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 917,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 918,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 919,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 920,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 921,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 922,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 923,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 924,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 925,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 926,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 927,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 928,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 929,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 930,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 931,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 932,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 933,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 934,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 935,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 936,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 937,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 938,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 939,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 940,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 941,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 942,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 943,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 944,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 945,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 946,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 947,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 948,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 949,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 950,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 951,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 952,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 953,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 954,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 955,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 956,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 957,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 958,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 959,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 960,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 961,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 962,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 963,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 964,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 965,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 966,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 967,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 968,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 969,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 970,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 971,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 972,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 973,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 974,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 975,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 976,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 977,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 978,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 979,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 980,
+    "source": "The implementation utilizes sophisticated algorithms.",
+    "target": "The program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 981,
+    "source": "the phenomenon demonstrates significant complexity.",
+    "target": "the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 982,
+    "source": "In summary, his demeanor appeared particularly taciturn.",
+    "target": "In summary, he seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 983,
+    "source": "Essentially, the methodology employed was comprehensive.",
+    "target": "Essentially, the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 984,
+    "source": "Substantial evidence supports the hypothesis.",
+    "target": "Much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 985,
+    "source": "the mechanism functions optimally.",
+    "target": "the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 986,
+    "source": "In summary, the document provides comprehensive documentation.",
+    "target": "In summary, the paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 987,
+    "source": "Essentially, significant advancements have been achieved.",
+    "target": "Essentially, big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 988,
+    "source": "The analysis requires meticulous attention.",
+    "target": "The study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 989,
+    "source": "the subsequent evaluation revealed anomalies.",
+    "target": "the later review showed problems.",
+    "level": "intermediate"
+  },
+  {
+    "id": 990,
+    "source": "In summary, the implementation utilizes sophisticated algorithms.",
+    "target": "In summary, the program uses advanced methods.",
+    "level": "intermediate"
+  },
+  {
+    "id": 991,
+    "source": "Essentially, the phenomenon demonstrates significant complexity.",
+    "target": "Essentially, the event shows much complexity.",
+    "level": "intermediate"
+  },
+  {
+    "id": 992,
+    "source": "His demeanor appeared particularly taciturn.",
+    "target": "He seemed very quiet.",
+    "level": "intermediate"
+  },
+  {
+    "id": 993,
+    "source": "the methodology employed was comprehensive.",
+    "target": "the method used was complete.",
+    "level": "intermediate"
+  },
+  {
+    "id": 994,
+    "source": "In summary, substantial evidence supports the hypothesis.",
+    "target": "In summary, much evidence supports the idea.",
+    "level": "intermediate"
+  },
+  {
+    "id": 995,
+    "source": "Essentially, the mechanism functions optimally.",
+    "target": "Essentially, the system works well.",
+    "level": "intermediate"
+  },
+  {
+    "id": 996,
+    "source": "The document provides comprehensive documentation.",
+    "target": "The paper gives complete information.",
+    "level": "intermediate"
+  },
+  {
+    "id": 997,
+    "source": "significant advancements have been achieved.",
+    "target": "big improvements have been made.",
+    "level": "intermediate"
+  },
+  {
+    "id": 998,
+    "source": "In summary, the analysis requires meticulous attention.",
+    "target": "In summary, the study needs careful focus.",
+    "level": "intermediate"
+  },
+  {
+    "id": 999,
+    "source": "Essentially, the subsequent evaluation revealed anomalies.",
+    "target": "Essentially, the later review showed problems.",
+    "level": "intermediate"
+  }
+]
