@@ -48,6 +48,11 @@ def parse_args():
         choices=["DEBUG", "INFO", "WARNING", "ERROR"],
         help="Logging level",
     )
+    parser.add_argument(
+        "--use_kaggle",
+        action="store_true",
+        help="Download and use Kaggle Simple Wikipedia dataset",
+    )
 
     return parser.parse_args()
 
@@ -67,8 +72,19 @@ def main():
             data_dir=args.data_dir, cache_dir=f"{args.data_dir}/cache"
         )
 
-        logger.info("Creating sample training data...")
-        raw_data = processor.create_sample_data(num_samples=args.max_samples or 1000)
+        if args.use_kaggle:
+            logger.info("Downloading Kaggle Simple English Wikipedia dataset...")
+            raw_data = processor.download_kaggle_simple_wiki()
+        else:
+            logger.info("Creating sample training data...")
+            raw_data = processor.create_sample_data(
+                num_samples=args.max_samples or 1000
+            )
+
+        # Limit samples if specified
+        if args.max_samples and args.max_samples < len(raw_data):
+            raw_data = raw_data[: args.max_samples]
+            logger.info(f"Limited to {args.max_samples} samples")
 
         logger.info("Augmenting data...")
         augmented_data = processor.augment_data(raw_data, augmentation_factor=3)
