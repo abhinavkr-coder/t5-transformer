@@ -38,7 +38,7 @@ class TrainingConfig:
     metric_for_best_model: str = "eval_loss"
     greater_is_better: bool = False
     fp16: bool = True
-    dataloader_num_workers: int = 4
+    dataloader_num_workers: int = 0
     gradient_accumulation_steps: int = 4
 
 
